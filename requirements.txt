@@ -6,7 +6,6 @@ httpx
 
 # WhisperX + dependencies
 whisperx
-torch
 torchaudio
 
 # Twelve Labs SDK
