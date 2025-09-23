@@ -24,7 +24,7 @@ pydub==0.25.1
 
 # If using NLP / ML
 transformers==4.42.0
-torch==2.3.0
+torch
 scikit-learn==1.5.0
 
 # For HTTP requests
